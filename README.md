@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Felipe Rese
+Matricula: 885555
 
 ## Tela de inspeção com navegador
+![image](https://github.com/user-attachments/assets/62d06a36-4edc-48e8-b14a-f7b8fc4da11e)
 
 
 ## Tela de projeto no Replit
+![image](https://github.com/user-attachments/assets/3cc218f4-24c3-48aa-a74e-2ac7751d1c65)
 
